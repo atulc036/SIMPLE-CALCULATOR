@@ -1,0 +1,47 @@
+*{
+    margin-left:5.4cm;
+    width:300px;
+    height:50px;
+
+    background-color:rgb(220, 220, 161);
+  }
+  button{
+    background-color:skyblue;
+    font-size:larger
+  }
+  p{
+    vertical-align:12px;
+    color:rgb(255, 0, 140);
+    text-align:center;
+    font-size:larger;
+    border-radius: 9px;
+    border:outset
+    
+    
+  }
+  #body{
+    margin-left:40px;
+
+  }
+  #oper{
+    color:red;
+  }
+  label{
+    color:red;
+    font-family: 'Itim', cursive;
+  }
+  input,label{
+    text-align:center;
+    margin-left:0px;
+    font-size:larger;
+    width:30%;
+    display:inline-block;
+    border-radius:9px;
+    
+  }
+  #parent { white-space: nowrap;
+
+  
+  }
+  
+  
